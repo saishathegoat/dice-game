@@ -1,21 +1,10 @@
 A fun and interactive Dice Game built with React and bundled using Vite. Roll the dice and test your luck!
 
-🚀 Features
+🚀 Features - Roll dice with a single click, Displays total score, Styled with CSS and reusable React components, Fast build & hot reload using Vite
 
-🎲 Roll dice with a single click
+🛠️ Tech Stack :
 
-🏆 Displays total score
-
-🎨 Styled with CSS and reusable React components
-
-⚡ Fast build & hot reload using Vite
-
-🛠️ Tech Stack
-
-React (UI framework)
-
-Vite (bundler)
-
-JavaScript (ES6+)
-
-CSS (styling)
+ React (UI framework)
+ Vite (bundler)
+ JavaScript (ES6+)
+ CSS (styling)
